@@ -17,7 +17,7 @@
 
 ## 소스코드
 ### Data Crawling
-- klue_crawling.ipynb: 클루(고려대학교 강의평가 사이트)에서 강의평, 학점/학습량/난이도/성취감 4개 지표에 대한 데이터 크롤링
+- klue_crawling.ipynb: 클루(고려대학교 강의평가 사이트)에서 강의평, 학점/학습량/난이도/성취감 4개 지표 데이터 크롤링
 
 ### Data Preprocessing
 - datathon_data_preprocess.ipynb: 데이터톤측에서 제공한 교내 강의데이터 전처리
