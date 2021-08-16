@@ -3,8 +3,6 @@
 - <b>프로젝트 진행기간:</b> 2021.06.28 - 2021.08.13
 - <b>사용언어:</b> Python, R
 - <b>역할:</b> 팀장, 카카오 API를 이용한 이동시간 데이터 수집, 강의평 사이트에서 데이터 크롤링, 강의평 텍스트 데이터 전처리(정규표현식, Pyhanspell, Pykospacing, 불용어, khaiii 형태소 분석기), 연속되는 강의 분리하는 알고리즘 개발, 시간표마다 가중치 부여하는 알고리즘 개발, Apriori 알고리즘을 이용한 연관분석, 워드클라우드 시각화
-- <b>결과:</b> 
-
 
 ## 자료
 - 1차 발제 자료
@@ -31,8 +29,6 @@
 - recommendation_timetable.R: 시간표 후보 중 최적 시간표 추천하는 알고리즘
 - apriori_visualization.ipynb: Apriori 알고리즘을 이용한 연관키워드 시각화
 - wordcloud_visualization.ipynb: 강의별 워드클라우드 시각화
-
-
 
 ## 데이터 파일
 *(confidential data hidden)*
