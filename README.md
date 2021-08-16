@@ -9,8 +9,6 @@
 - 2차 발제 자료
 - 최종 결과보고서
 - korean_readme.text: 각 소스코드와 데이터에 대한 설명
-- 노션 링크(회의록, 선행 연구 스터디): www.notion.so/caramel-scourge-d0f
-
 
 
 ## 소스코드
