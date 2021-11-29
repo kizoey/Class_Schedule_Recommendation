@@ -37,7 +37,7 @@
 - **evaluation_preprocessed**: 전처리한 클루 강의평 데이터
 
 ### _reports_
-- **first_presentation**: 1차 발제 자료
-- **second_presentation**: 2차 발제 자료
-- **final_project_report**: 최종 결과보고서
+- 1차 발제 자료
+- 2차 발제 자료
+- 최종 결과보고서
 - **README(kor)**: 각 소스코드와 데이터에 대한 설명
