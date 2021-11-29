@@ -1,4 +1,8 @@
 <h1> timetable-optimization </h1>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+</p>
 <b><i>Timetable optimization</i></b> is a timetable generator that builds timetable according to the user's preference. The preference can be determined by the course evaluation, distance between the classrooms and more. We built our novel algorithm to recommend list of courses according to the input preferences.
 <br>
 
